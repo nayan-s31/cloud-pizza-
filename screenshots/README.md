@@ -7,4 +7,4 @@
 
 ### Kubernetes Pods and Services
 
-![Pods and Seervices](screenshots/pods & services.png)
+![PodsandSeervices](screenshots/pods & services.png)
