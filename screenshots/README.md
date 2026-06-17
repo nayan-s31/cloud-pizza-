@@ -1,4 +1,3 @@
-
 ## Screenshots
 
 ### Application Running
@@ -7,4 +6,4 @@
 
 ### Kubernetes Pods and Services
 
-![PodsandSeervices](screenshots/pods & services.png)
+![Pods and Services](screenshots/pods-services.png)
