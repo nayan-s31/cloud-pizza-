@@ -5,10 +5,6 @@
 
 ![Application](screenshots/app-running.png)
 
-### Kubernetes Pods
+### Kubernetes Pods and Services
 
-![Pods](screenshots/pods.png)
-
-### Kubernetes Service
-
-![Service](screenshots/service.png)
+![Pods and Seervices](screenshots/pods & services.png)
